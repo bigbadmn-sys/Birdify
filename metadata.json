@@ -1,0 +1,6 @@
+{
+  "name": "Birdify",
+  "description": "AI-powered ecosystem transforming people into satirical bird caricatures with absurdist humor and British voiceovers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Image Generation", "AI Audio Generation", "AI Text Generation", "Video Assembly"]
+}
